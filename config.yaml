@@ -3,11 +3,11 @@
 # Default to 5 if not specified.
 items_shown: 5
 plex:
-    url: https://192.168.0.203:32400
-    token: KBYD8RnZV3UymowHq7rc
+    url: PLEX_URL_HERE
+    token: Token here
 overseerr:
-    url: http://192.168.0.203:5000
-    api_key: c636c4acb1b048b88a4e81ee6f82005d
+    url: URL HERE
+    api_key: Token here
 tautulli:
     url: https://YOUR_TAUTULLI_URL
     api_key: YOUR_API_KEY
